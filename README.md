@@ -1,7 +1,7 @@
 
 ---
 
-## Contoh README revisi lengkap
+## P3K: Online Learning Platform for Offline Courses
 
 ```markdown
 # 📘 P3K Web Course Platform
